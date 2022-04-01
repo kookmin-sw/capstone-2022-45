@@ -1,0 +1,27 @@
+{
+    "bga": {
+        "bga_events": [],
+        "bga_header": [],
+        "layer_events": [],
+        "poor_events": []
+    },
+    "bpmEvent": {
+        "bpm_events": []
+    },
+    "info": {
+        "artist": "1",
+        "back_image": "4",
+        "banner_image": "52",
+        "chart_name": "52",
+        "eyecatch_image": "25",
+        "genre": "42",
+        "init_bpm": 0,
+        "judge_rank": 0,
+        "level": 0,
+        "mode_hint": "2",
+        "resolution": 0,
+        "subtitle": "42",
+        "title": "42",
+        "total": 0
+    }
+}
